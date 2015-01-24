@@ -2,4 +2,7 @@
 Repository for coursework
 
 Run the run_analysis.R in one go and check whatever variable values interest you once the script is done running.
+
 The variable descriptions are in the CodeBook.md file
+
+You will also find in the CodeBook.md file details of the step by step approach that led to the fulfillment of the project sections.
