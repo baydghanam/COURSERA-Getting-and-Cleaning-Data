@@ -1,5 +1,5 @@
-# Data source, refrences and description: #
-For a summary description of the data used as source to this script please refer to the following URL
+# Data source, references and description: #
+For a summary description of the data used as source for this script please refer to the following URL
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 # Libraries uploaded at the beginning of the script: #
